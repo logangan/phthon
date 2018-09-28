@@ -1,2 +1,2 @@
-# phthon
+# python
 python functions or tools
